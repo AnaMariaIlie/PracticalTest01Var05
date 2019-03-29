@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest01Var05</string>
+    <string name="play">play</string>
+    <string name="title_activity_practical_test01_var05_secondary">
+        PracticalTest01Var05SecondaryActivity
+    </string>
+</resources>
